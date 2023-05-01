@@ -17,12 +17,10 @@ Apply Feature selection techniques to all the features of the data set
 Save the data to the file
 
 # CODE
+Developed by:Kathirvelan.K
 
+Register number:212221220026
 ```
-Developed By: Saran S S
-Reg.No: 212221220048
-
-#loading dataset
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

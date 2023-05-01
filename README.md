@@ -203,4 +203,88 @@ plt.show()
 
 # OUPUT
 
-![]()
+Intial dataset
+
+![](1.png)
+
+Data checking and cleaning
+
+![](2.png)
+
+![](3.png)
+
+Outlier removal
+
+![](4.png)
+
+![](5.png)
+
+Feature encoding
+
+![](6.png)
+
+Feature transformation
+
+![](7.png)
+
+![](8.png)
+
+Feature selection (Filter method)
+
+The filtering here is done using correlation matrix and it is most commonly done using Pearson correlation.
+
+![](9.png)
+
+Highly correlated features with the Output variable
+
+![](10.png)
+
+Feature selection (Wrapper method)
+
+Wrapper Method is an iterative and computationally expensive process but it is more accurate than the filter method.There are different wrapper methods such as Backward Elimination, Forward Selection, Bidirectional Elimination and RFE.
+
+1.Backward elimination
+
+![](11.png)
+
+![](12.png)
+
+2.RFE (Recursive Feature Elimination)
+
+![](13.png)
+
+3.Optimum number of features that have high accuracy
+
+![](14.png)
+
+4.Final set of feature
+
+![](15.png)
+
+Feature selection (Embedded method)
+
+Embedded methods are iterative in a sense that takes care of each iteration of the model training process and carefully extract those features which contribute the most to the training for a particular iteration. Regularization methods are the most commonly used embedded methods which penalize a feature given a coefficient threshold.
+
+
+![](16.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

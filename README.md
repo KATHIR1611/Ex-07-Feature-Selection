@@ -268,6 +268,10 @@ Embedded methods are iterative in a sense that takes care of each iteration of t
 
 ![](16.png)
 
+# Result
+
+  Thus the various feature selection techniques has been performed on a given dataset successfully.
+
 
 
 
